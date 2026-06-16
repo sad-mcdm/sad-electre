@@ -1,14 +1,14 @@
-# Nexus ELECTRE — Relações de Sobreclassificação Não-Compensatórias
+# SAD ELECTRE — Relações de Sobreclassificação Não-Compensatórias
 
-Este repositório é o módulo independente do ecossistema **NEXUS MCDM**, configurado para operar exclusivamente com a família de métodos **ELECTRE**.
+Este repositório é o módulo independente do ecossistema **SAD MCDM**, configurado para operar exclusivamente com a família de métodos **ELECTRE**.
 
 ---
 
 ## 🎨 Identidade Visual e Branding
-- **Nome Oficial:** Nexus ELECTRE
+- **Nome Oficial:** SAD ELECTRE
 - **Cores Oficiais:** Índigo (`#4F46E5`) e Violeta (`#7C3AED`)
 - **Conceito Visual:** Grafo de sobreclassificação direta conectando alternativas e arcos direcionais.
-- **Copyright:** Direitos Reservados © 2026 NEXUS-MCDM. Todos os direitos reservados.
+- **Copyright:** Direitos Reservados © 2026 SAD-MCDM. Todos os direitos reservados.
 
 ---
 
